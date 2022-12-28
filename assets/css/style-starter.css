@@ -8064,6 +8064,11 @@ button.bg-dark:focus {
 .mr-5,
 .mx-5 {
   margin-right: 3rem !important; }
+  
+.mr-6,
+.ml-6 {
+  margin-right: 4.5rem !important;
+  margin-left: 4.5rem !important;  }
 
 .mb-5,
 .my-5 {
@@ -11178,7 +11183,7 @@ button.owl-next {
   font-size: 16px;
   line-height: 24.5px;
   color: var(--text-color);
-  margin: 15px 0 35px 0; }
+  margin: 15px 0 15px 0; }
 
 .w3l-about1 ul.cont-4 li {
   display: flex; }
@@ -11283,10 +11288,10 @@ button.owl-next {
   color: var(--primary); }
 
 .w3l-about3 .feature-gd p {
-  font-size: 14px;
-  line-height: 22.5px;
+  font-size: 18px;
+  line-height: 28.5px;
   color: var(--text-color);
-  margin-bottom: 0; }
+  margin-bottom: 8px; }
 
 @media (max-width: 992px) {
   .w3l-about3 .feature-gd {
@@ -12000,7 +12005,7 @@ div#small-dialog iframe {
 
 .w3l-contact .map iframe {
   width: 100%;
-  min-height: 330px;
+  min-height: 400px;
   padding: 10px;
   background: var(--bg-color);
   border-radius: var(--border-radius); }
@@ -12185,6 +12190,10 @@ div#small-dialog iframe {
 
 .duiqi{
 	text-align: justify;
+}
+
+.duiqi-center{
+	text-align: center;
 }
 
 #fontsize18{
